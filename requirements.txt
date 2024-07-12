@@ -1,0 +1,14 @@
+bpy
+clip
+filelock
+mathutils
+matplotlib
+numpy
+openai_clip
+Pillow
+Requests
+scikit_image
+scipy
+torch
+torch==1.8.1+cpu
+tqdm
