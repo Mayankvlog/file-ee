@@ -1,0 +1,36 @@
+from setuptools import setup
+
+setup(
+    name="file-ee",
+    packages=[
+        "file_ee",
+        "file_ee.diffusion",
+        "file_ee.models",
+        "file_ee.models.generation",
+        "file_ee.models.nerf",
+        "file_ee.models.nerstf",
+        "file_ee.models.nn",
+        "file_ee.models.stf",
+        "file_ee.models.transmitter",
+        "shap_ee.rendering",
+        "file_ee.rendering.blender",
+        "file_ee.rendering.raycast",
+        "file_ee.util",
+    ],
+    install_requires=[
+        "filelock",
+        "Pillow",
+        "torch",
+        "fire",
+        "humanize",
+        "requests",
+        "tqdm",
+        "matplotlib",
+        "scikit-image",
+        "scipy",
+        "numpy",
+        "blobfile",
+        "clip @ git+https://github.com/openai/CLIP.git",
+    ],
+    author="Mayankvlog",
+)
