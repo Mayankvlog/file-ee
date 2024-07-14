@@ -1,4 +1,4 @@
-# open_ml
+# file-ee
 
  * See [Usage](#usage) for guidance on how to use this repository.
  * See [Samples](#samples) for examples of what our text-conditional model can generate.
