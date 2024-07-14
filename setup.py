@@ -30,7 +30,7 @@ setup(
         "scipy",
         "numpy",
         "blobfile",
-        "clip @ git+https://github.com/openai/CLIP.git",
+        "clip @ git+https://github.com/Mayankvlog/CLIP.git",
     ],
     author="Mayankvlog",
 )
