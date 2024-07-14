@@ -10,5 +10,5 @@ Install with `pip install -e .`.
 
 To get started with examples, see the following notebooks:
 
-* [sample_text_to_3d.ipynb](file_ee/examples/sample_text_to_3d.ipynb) - sample a 3D model, conditioned on a text prompt.
-* [sample_image_to_3d.ipynb](file_ee/examples/sample_image_to_3d.ipynb) - sample a 3D model, conditioned on a synthetic view image. To get the best result, you should remove background from the input image.
+* [image2pointcloud.ipynb](file_ee/examples/image2pointcloud.ipynb) - sample a 3D model, conditioned on a text prompt.
+* [text2pointcloud.ipynb](file_ee/examples/text2pointcloud.ipynb) - sample a 3D model, conditioned on a synthetic view image. To get the best result, you should remove background from the input image.
