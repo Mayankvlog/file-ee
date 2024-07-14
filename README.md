@@ -1,4 +1,9 @@
 # open_ml
+ Functions](https://arxiv.org/abs/2305.02463).
+
+ * See [Usage](#usage) for guidance on how to use this repository.
+ * See [Samples](#samples) for examples of what our text-conditional model can generate.
+
 
 # Usage
 
